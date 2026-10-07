@@ -73,4 +73,4 @@ into another.
  ##  Author
 
 **Ritik Thakur**  
-GitHub: `@ritikthakur23`
+GitHub: `@ritikthakur26`
